@@ -8,6 +8,14 @@ This is a full-stack web application built with a React frontend and Express bac
 
 Preferred communication style: Simple, everyday language.
 
+## Recent Changes
+
+- **2024-01-09**: Added cross-platform startup scripts to resolve Windows NODE_ENV issues
+  - Created start-dev.bat for Windows users
+  - Created start-dev.sh for Linux/Mac users  
+  - Created start-dev.js as Node.js alternative
+  - Added comprehensive README.md with troubleshooting guide
+
 ## System Architecture
 
 ### Frontend Architecture
